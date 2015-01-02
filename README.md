@@ -33,6 +33,8 @@ The creeps has skills like:
 
 You will need cmake in order to build.
 
+### Building on Windows
+
 For windows you will need at least Visual Studio 2013.
 
 Example, considering you have SDL2 installed on C:\SDL2:
@@ -44,3 +46,6 @@ This will output a folder 'build' with SpaceTD.sln in it.
 Important: In your SDL2 include folder, say C:\SDL2\include, it must have a SDL2 folder with all the .h files in it, 
 so that #include "SDL2/SDL.h" can be resolved.
 
+### Building on Linux
+
+### Building for Android
