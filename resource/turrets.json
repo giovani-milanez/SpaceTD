@@ -1,0 +1,111 @@
+{
+  "turret-1": {
+    "name": "Shooter",
+    "image": "resource/tower-defense-turrets/turret-1-1.png",
+    "bullet_image": "resource/bullets/missile_1.png",
+    "damage": {
+      "from": 11,
+      "to": 12
+    },
+    "cooldown": 1.25,
+    "range": 55,
+    "cost": 30
+  },
+  "turret-2": {
+  	"name": "Smasher",
+    "image": "resource/tower-defense-turrets/turret-2-1.png",
+    "bullet_image": "resource/bullets/fireball_1.png",
+    "damage": {
+      "from": 15,
+      "to": 20
+    },
+    "cooldown": 1.5,
+    "range": 50,
+    "cost": 35
+  },
+  "turret-3": {
+    "name": "Defender",
+    "image": "resource/tower-defense-turrets/turret-3-1.png",
+    "bullet_image": "resource/bullets/shot_1.png",
+    "damage": {
+      "from": 12,
+      "to": 16
+    },
+    "slow": {
+      "duration": 3.0,
+      "percentage": 0.4
+    },
+    "cooldown": 1.75,
+    "range": 55,
+    "cost": 40
+  },
+  "turret-4": {
+    "name": "Blaster",
+    "image": "resource/tower-defense-turrets/turret-4-1.png",
+    "bullet_image": "resource/bullets/ball_red_1.png",
+    "damage": {
+      "from": 12,
+      "to": 16
+    },
+    "cooldown": 1.75,
+    "range": 50,
+    "splash_range": 15,
+    "cost": 45
+  },
+  "turret-5": {
+    "name": "Wounder",
+    "image": "resource/tower-defense-turrets/turret-5-1.png",
+    "bullet_image": "resource/bullets/star_1.png",
+    "damage": {
+      "from": 11,
+      "to": 14
+    },
+    "cooldown": 1.5,
+    "range": 60,
+    "bleed": {
+      "duration": 5.0,
+      "dps": 4
+    },
+    "cost": 45
+  },
+  "turret-6": {
+    "name": "Basher",
+    "image": "resource/tower-defense-turrets/turret-6-1.png",
+    "bullet_image": "resource/bullets/mine_redstar_1.png",
+    "damage": {
+      "from": 15,
+      "to": 20
+    },
+    "cooldown": 1.75,
+    "range": 60,
+    "stun": {
+      "duration": 1.0,
+      "chance": 0.5
+    },
+    "cost": 50
+  },
+  "turret-7": {
+    "name": "Destroyer",
+    "image": "resource/tower-defense-turrets/turret-7-1.png",
+    "bullet_image": "resource/bullets/wave_small_1.png",
+    "damage": {
+      "from": 20,
+      "to": 25
+    },
+    "cooldown": 2.0,
+    "range": 60,
+    "stun": {
+      "duration": 1.5,
+      "chance": 0.4
+    },
+    "bleed": {
+      "duration": 5.0,
+      "dps": 4
+    },
+    "slow": {
+      "duration": 3.0,
+      "percentage": 0.3
+    },
+    "cost": 90
+  }
+}

@@ -1,0 +1,8 @@
+Here is the timing sequence that will allow you to animate the frames to move exactly like you saw on my webpage: 
+
+frame 1 - 1 second 
+frame 2 - 0.2 sec.
+frame 3 - 0.1 sec.
+frame 4 - 1 second 
+frame 5 - 0.1 sec.
+frame 6 - 0.2 sec.

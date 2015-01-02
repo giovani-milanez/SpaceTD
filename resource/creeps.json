@@ -1,0 +1,92 @@
+{
+  "creep-1-blue": {
+    "health": 50,
+    "speed": 40,
+    "gold": 5
+  },
+  "creep-1-green": {
+    "health": 60,
+    "speed": 65,
+    "heal_aura": {
+      "area": 33,
+      "hps": 5
+    },
+    "gold": 7
+  },
+  "creep-1-red": {
+    "health": 80,
+    "speed": 45,
+    "bleedResistance": 1,
+    "gold": 8
+  },
+  "creep-1-yellow": {
+    "health": 100,
+    "speed": 90,
+    "speed_aura": {
+      "area": 33,
+      "percentage": 0.5
+    },
+    "stunResistance": 1,
+    "gold": 10
+  },
+  "creep-2-blue": {
+    "health": 65,
+    "speed": 50,
+    "gold": 7
+  },
+  "creep-2-green": {
+    "health": 80,
+    "speed": 65,
+    "heal_aura": {
+      "area": 33,
+      "hps": 5
+    },
+    "gold": 8
+  },
+  "creep-2-red": {
+    "health": 90,
+    "speed": 55,
+    "bleedResistance": 1,
+    "gold": 8
+  },
+  "creep-2-yellow": {
+    "health": 100,
+    "speed": 95,
+    "speed_aura": {
+      "area": 33,
+      "percentage": 0.5
+    },
+    "stunResistance": 1,
+    "gold": 10
+  },
+  "creep-3-blue": {
+    "health": 80,
+    "speed": 60,
+    "gold": 5
+  },
+  "creep-3-green": {
+    "health": 95,
+    "speed": 65,
+    "heal_aura": {
+      "area": 33,
+      "hps": 5
+    },
+    "gold": 8
+  },
+  "creep-3-red": {
+    "health": 100,
+    "speed": 65,
+    "bleedResistance": 1,
+    "gold": 8
+  },
+  "creep-3-yellow": {
+    "health": 110,
+    "speed": 100,
+    "speed_aura": {
+      "area": 33,
+      "percentage": 0.5
+    },
+    "stunResistance": 1,
+    "gold": 12
+  }
+}

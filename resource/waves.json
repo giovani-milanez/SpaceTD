@@ -1,0 +1,104 @@
+{
+"waves":
+	[
+		{
+		"bonus": 10,		
+		"creeps":
+			[
+				{
+					"name":"creep-1-blue",
+					"quantity": 3,
+					"delay": 1
+				},
+				{
+					"name":"creep-1-red",
+					"quantity": 2,
+					"delay": 10
+				},
+				{
+					"name":"creep-1-yellow",
+					"quantity": 1,
+					"delay": 6
+				}
+			]
+		},
+		{
+		"bonus": 15,		
+		"creeps":
+			[
+				{
+					"name":"creep-2-blue",
+					"quantity": 5,
+					"delay": 1
+				},
+				{
+					"name":"creep-2-red",
+					"quantity": 3,
+					"delay": 10
+				},
+				{
+					"name":"creep-2-yellow",
+					"quantity": 2,
+					"delay": 6
+				}
+			]
+		},
+		{
+		"bonus": 20,
+		"creeps":
+			[
+				{
+					"name":"creep-3-blue",
+					"quantity": 4,
+					"delay": 1
+				},
+				{
+					"name":"creep-3-red",
+					"quantity": 4,
+					"delay": 15
+				},
+				{
+					"name":"creep-3-yellow",
+					"quantity": 3,
+					"delay": 10
+				},
+				{
+					"name":"creep-2-green",
+					"quantity": 2,
+					"delay": 10
+				}
+			]
+		},
+		{
+		"bonus": 30,
+		"creeps":
+			[
+				{
+					"name":"creep-1-blue",
+					"quantity": 3,
+					"delay": 1
+				},
+				{
+					"name":"creep-3-red",
+					"quantity": 2,
+					"delay": 7
+				},
+				{
+					"name":"creep-1-green",
+					"quantity": 2,
+					"delay": 10
+				},
+				{
+					"name":"creep-2-blue",
+					"quantity": 3,
+					"delay": 6
+				},
+				{
+					"name":"creep-3-yellow",
+					"quantity": 3,
+					"delay": 6
+				}
+			]
+		}		
+	]
+}

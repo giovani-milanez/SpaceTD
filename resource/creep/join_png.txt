@@ -1,0 +1,1 @@
+montage *.png -tile 4x -background none -geometry +0+0 sheet.png
