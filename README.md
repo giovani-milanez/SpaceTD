@@ -1,5 +1,7 @@
 # My first game, made with SDL2, EntityX and C++11
 
+![Screen Shot](screenshot.png?raw=true)
+
 I made this game as a hobby, willing to learn game development basics and improve my C++.
 
 In this game you buy turrets in order to kill creeps, which must not get to the end of the map.
