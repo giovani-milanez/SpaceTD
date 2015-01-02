@@ -40,5 +40,5 @@ cmake -H. -Bbuild -G "Visual Studio 12" -DSDL2_LIB_DIR=C:\SDL2\lib\X86 -DSDL2_IN
 This will output a folder 'build' with SpaceTD.sln in it.
 
 Important: In your SDL2 include folder, say C:\SDL2\include, it must have a SDL2 folder with all the .h files in it, 
-so that #include <SDL2/SDL.h> can be resolved.
+so that #include "SDL2/SDL.h" can be resolved.
 
